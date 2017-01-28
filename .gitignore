@@ -1,3 +1,11 @@
 build/
 .vs/
 bin/
+Projects/VC2017/lcms2_DLL/
+Projects/VC2017/lcms2_static/
+Projects/VC2017/linkicc/
+Projects/VC2017/psicc/
+Projects/VC2017/testbed/
+Projects/VC2017/tiffdiff/
+Projects/VC2017/tifficc/
+Projects/VC2017/transicc/
